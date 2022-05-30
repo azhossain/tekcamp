@@ -40,15 +40,15 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/azhossain/tekcamp/tree/react"
+    "url": "git+https://github.com/azhossain/tekcamp.git#react"
   },
   "keywords": [
-    "8080"
+    "3306"
   ],
   "author": "Agm Zakir Hossain",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/azhossain/tekcamp/issues"
   },
-  "homepage": "https://github.com/azhossain/tekcamp#readme"
+  "homepage": "https://github.com/azhossain/tekcamp"
 }
