@@ -40,7 +40,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azhossain/tekcamp.git"
+    "url": "https://github.com/azhossain/tekcamp/tree/react"
   },
   "keywords": [
     "3000"
